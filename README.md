@@ -41,4 +41,12 @@
 
        
 
-3. 
+3. reviews：点击切换至上一个、下一个、随机的review内容
+
+   <img src="images/image-20201220105142112.png" alt="image-20201220105142112" style="zoom:67%;" />
+
+   * 要点：
+     * 使用react icon可以方便使用不同的icons
+
+4. accordion切换
+
