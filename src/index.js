@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 // import App from './01.birthdaylist/App';
 // import App from './02.tours/App';
-import App from './03.reviews/App';
+// import App from './03.reviews/App';
+import App from './04.accordion/App';
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

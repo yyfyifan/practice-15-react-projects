@@ -48,5 +48,14 @@
    * 要点：
      * 使用react icon可以方便使用不同的icons
 
-4. accordion切换
+4. accordion切换：每个item有标题和详细信息，通过点击button来切换展开、收起详细信息
+
+   <img src="images/image-20201223223801668.png" alt="image-20201223223801668" style="zoom:67%;" />
+
+   * 要点：
+     * 使用`&&` 和 `?:` 进行条件渲染
+
+   ​	
+
+   
 
